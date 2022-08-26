@@ -1,0 +1,17 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+
+}
+input{
+    outline: none;
+}
+.input__password, .input__login{
+    height: 25px;
+    border-radius: 10px;
+    background: #f0f0f0;
+}
+.input__password{
+    margin-top: 10px;
+}
